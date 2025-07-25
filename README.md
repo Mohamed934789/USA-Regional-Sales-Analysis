@@ -56,3 +56,34 @@ Here are sample snapshots from the Power BI dashboard created for this analysis:
 ![Dashboard 2](dashboard_2.png)
 ![Dashboard 3](dashboard_3.png)
 
+## 🚀 How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/Mohamed934789/USA-Regional-Sales-Analysis.git
+
+
+ 🚀 How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/Mohamed934789/USA-Regional-Sales-Analysis.git
+
+2-Install dependencies:
+
+   pip install -r requirements.txt
+
+3-Open the Jupyter Notebook and run the cells.
+
+
+##⚙️ Tech Stack
+Python: pandas, numpy, matplotlib, seaborn, plotly
+
+Data Visualization: matplotlib, seaborn, plotly express
+
+Reporting: Power BI (planned dashboard)
+
+## 👤 Author
+
+**M. Kassab**  
+📧 Email: [m.kassab934@gmail.com](mailto:m.kassab934@gmail.com)  
+💼 LinkedIn: [Mohamed Kassab](https://www.linkedin.com/in/mohamed-kassab-b1b0482a1/)
+
