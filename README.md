@@ -46,7 +46,7 @@ Analyze Acme Co.’s historical sales data to:
 - **Data Visualization:** matplotlib, seaborn, plotly express
 - **Reporting:** Power BI (planned dashboard)
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mohamed934789/usa-regional-sales-analysis.git
+##👤 Author
+ **M.Kassab
+📧** Email: youremail@example.com
+💼 **LinkedIn
