@@ -46,7 +46,7 @@ Analyze Acme Co.’s historical sales data to:
 - **Data Visualization:** matplotlib, seaborn, plotly express
 - **Reporting:** Power BI (planned dashboard)
 
-##👤 Author
- **M.Kassab
-📧** Email: youremail@example.com
-💼 **LinkedIn
+## 👤 Author
+ **M.Kassab**
+-📧 ** Email: m.kassab934@gmail.com
+-💼  **LinkedIn: https://www.linkedin.com/in/mohamed-kassab-b1b0482a1/
