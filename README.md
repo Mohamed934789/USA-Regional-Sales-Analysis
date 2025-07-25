@@ -49,4 +49,4 @@ Analyze Acme Co.’s historical sales data to:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/usa-regional-sales-analysis.git
+   git clone https://github.com/Mohamed934789/usa-regional-sales-analysis.git
