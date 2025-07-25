@@ -48,5 +48,11 @@ Analyze Acme Co.’s historical sales data to:
 - Seasonal spikes in Q4 indicate strong holiday demand.
 - Product X drove 30% of total profit across all channels.
 
-## 📸 Sample Dashboard
-> Add your dashboard image here:
+## 📸 Sample Dashboards
+
+Here are sample snapshots from the Power BI dashboard created for this analysis:
+
+![Dashboard 1](dashboard_1.png)
+![Dashboard 2](dashboard_2.png)
+![Dashboard 3](dashboard_3.png)
+
