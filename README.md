@@ -8,6 +8,8 @@
 This project performs **Exploratory Data Analysis (EDA)** on **Acme Co.’s 2014–2018 USA Sales Dataset** to identify revenue & profit drivers, seasonal patterns, and customer segmentation.  
 Findings from this analysis will be used to design a **Power BI dashboard** to support data-driven strategic decisions.
 
+> ⚠️ **Note:** This project was created as a **learning exercise** by following a tutorial and then implementing it from scratch to understand the full workflow of data cleaning, EDA, and visualization.
+
 ## ❓ Problem Statement
 Analyze Acme Co.’s historical sales data to:
 - Identify top-performing products, channels, and regions driving revenue & profit.
@@ -41,12 +43,10 @@ Analyze Acme Co.’s historical sales data to:
 - 📦 **Channel Analysis** (Total Sales & Avg. Profit Margin)
 - 💰 **Unit Price Distributions & Outliers**
 
-## ⚙️ Tech Stack
-- **Python:** pandas, numpy, matplotlib, seaborn, plotly
-- **Data Visualization:** matplotlib, seaborn, plotly express
-- **Reporting:** Power BI (planned dashboard)
+## 💡 Key Insights
+- East Region generated the highest revenue (45%) but had lower profit margin.
+- Seasonal spikes in Q4 indicate strong holiday demand.
+- Product X drove 30% of total profit across all channels.
 
-## 👤 Author
-##  M.Kassab
--📧 **Email**: m.kassab934@gmail.com
--💼 **LinkedIn**: https://www.linkedin.com/in/mohamed-kassab-b1b0482a1/
+## 📸 Sample Dashboard
+> Add your dashboard image here:
