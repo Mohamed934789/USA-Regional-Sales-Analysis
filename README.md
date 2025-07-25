@@ -74,12 +74,12 @@ Here are sample snapshots from the Power BI dashboard created for this analysis:
 3-Open the Jupyter Notebook and run the cells.
 
 
-##⚙️ Tech Stack
-Python: pandas, numpy, matplotlib, seaborn, plotly
+## ⚙️ Tech Stack
+-**Python**: pandas, numpy, matplotlib, seaborn, plotly
 
-Data Visualization: matplotlib, seaborn, plotly express
+-**Data Visualization**: matplotlib, seaborn, plotly express
 
-Reporting: Power BI (planned dashboard)
+-**Reporting**: Power BI (planned dashboard)
 
 ## 👤 Author
 
