@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+reports/
+data/raw/
+Clean Data.xlsx
